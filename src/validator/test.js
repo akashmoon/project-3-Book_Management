@@ -1,0 +1,1 @@
+// _id:, title:, excerpt: ,userId: ,category:, subcategory:, "isDeleted":, reviews:, releasedAt: ,createdAt: , updatedAt:, reviewsData:, _id:,bookId: , reviewedBy:, reviewedAt: , rating: , review: ,
